@@ -90,6 +90,7 @@ Developed at **Gdansk University of Technology**, with support from the **IDUB A
 ## License and citation
 
 Before adding a software license, confirm that the rights holders authorise public distribution and the selected license. A `LICENSE` file and `CITATION.cff` should be added once the approved license, author list, release version and citation details are confirmed.
+ECO_RET is archived on Zenodo and available under DOI: https://doi.org/10.5281/zenodo.24466058
 
 ## Project status
 
