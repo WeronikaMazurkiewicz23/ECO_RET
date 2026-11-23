@@ -1,0 +1,28 @@
+
+cff-version: 1.2.0
+message: "If you use ECO_RET in your research, please cite this software."
+type: software
+
+title: "ECO_RET: A Tool for the Ecological Retrofitting of Existing Suburban Areas"
+
+authors:
+  - family-names: Mazurkiewicz
+    given-names: Weronika
+    affiliation: Gdansk University of Technology
+
+  - family-names: Wieczerzak
+    given-names: Justyna
+    affiliation: Gdansk University of Technology
+
+repository-code: "https://github.com/WeronikaMazurkiewicz23/ECO_RET"
+
+license: GPL-3.0-only
+
+keywords:
+  - QGIS
+  - ecological retrofitting
+  - suburban areas
+  - spatial planning
+  - GIS
+  - 15-minute city
+  - sustainable urban development
